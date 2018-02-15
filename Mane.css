@@ -1,0 +1,40 @@
+.navbar{
+  color: #fff;
+  width: 200px
+  margin: auto;
+    text-align: center;
+}
+
+.navbar li{
+  display: inline;
+  color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 2;
+    padding: 3;
+}
+
+  img {
+     padding:5px;
+     border:3px solid #FF8800;
+     background-color:#14BBE4;
+  }
+
+h1 {
+    text-shadow: 2px 2px 8px #FF0000;
+    font-family: "Chalkduster";
+  }
+
+h4 {
+    text-shadow: 2px 2px 8px #FF0000;
+}
+
+h3       {
+    text-shadow: 3px 4px 8px #FF0000;
+}
+
+h9 {
+    text-shadow: 2px 2px 8px #FF0000;
+}
